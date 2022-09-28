@@ -1,0 +1,18 @@
+{
+  "name": "94scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "check credit score free ◄ Get Your FREE Credit Score check credit score free, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "check credit score free",
+    "how good credit score",
+    "credit score very good",
+    "credit score 480",
+    "credit score vs vantagescore"
+  ],
+  "repository": "https://github.com/truelestor/94scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
